@@ -7,7 +7,7 @@ Cube Surfer, üç boyutlu bir küp üzerinde süzülerek ilerlediğiniz eğlence
 
 - Dinamik engeller ve zorluklar
 - Kolay kontroller ve oynanabilirlik
--
+
 
 
 
